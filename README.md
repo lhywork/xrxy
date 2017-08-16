@@ -1,6 +1,6 @@
 # 星融学院后台管理
 
-> 前言
+
 
 
 ## 技术栈
@@ -9,7 +9,7 @@ Vue2 + Vue-router + Axios + Webpack + ES5/6 + Element-UI + Less
 
 # 效果演示
 
-[查看demo请戳这里](http://xrxy.weipaidai.com/)（请用chrome手机模式预览）
+[查看demo请戳这里](http://xrxy.weipaidai.com.cn)（请用chrome手机模式预览）
 
 
 # 项目布局
