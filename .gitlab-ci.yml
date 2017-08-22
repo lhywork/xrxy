@@ -7,7 +7,7 @@ pages:
 
   script:
   - npm install
-  - npm run build -d dist
+  - npm run build 
   artifacts:
     paths:
     - dist
