@@ -116,6 +116,7 @@
                     name: this.name,
                     typeId: this.typeId                
                 };
+                
                 getCourseList(JSON.stringify(Params)).then((res) => {
                     self.tableData = res.data.rows;
                     self.pageTotal = res.data.total;
